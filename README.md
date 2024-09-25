@@ -9,3 +9,5 @@
     - Output will be stored as `audio/output.mp3`.
 
 use [basic_pitch.io](https://basicpitch.spotify.com/)
+
+[Presentation](https://www.canva.com/design/DAGRrcAnf9s/wYuOk18-Iupro1R4StFPSg/edit?utm_content=DAGRrcAnf9s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
