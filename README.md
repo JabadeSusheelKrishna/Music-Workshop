@@ -7,3 +7,5 @@
     - Now we need to combine this midi file with the Sound font of the desired instrument.
     - Now finally we need to generate the output audio file from the above files using `Code/midi_to_audio.py`.
     - Output will be stored as `audio/output.mp3`.
+
+use [basic_pitch.io](https://basicpitch.spotify.com/)
