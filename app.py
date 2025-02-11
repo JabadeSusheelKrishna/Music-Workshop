@@ -8,6 +8,5 @@ fs.midi_to_audio('greensleeves.mid', 'output2.wav')
 
 from pydub import AudioSegment
 
-# Convert WAV to MP3
 audio = AudioSegment.from_wav("output2.wav")
 audio.export("output2.mp3", format="mp3")
